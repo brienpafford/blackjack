@@ -1,0 +1,19 @@
+
+body {
+  background-image: url("http://www.pandorasupholstery.co.uk/products_pictures/Blue%20B.jpg");
+}
+
+h1 {
+  color: white;
+}
+
+
+.cardBack {
+	max-height: 65%;
+	border: 10px solid black
+}
+
+.cardBack2 {
+	max-height: 65%;
+	border: 10px solid black;
+}

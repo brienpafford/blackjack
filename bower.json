@@ -1,0 +1,18 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "homepage": "https://github.com/pafford14/blackjack",
+  "authors": [
+    "Brien Pafford <bcpaff@gmail.com>"
+  ],
+  "description": "Simple Blackjack app in JS",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

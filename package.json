@@ -1,0 +1,24 @@
+{
+  "name": "blackjack",
+  "version": "1.0.0",
+  "description": "Simple Blackjack app in JS",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pafford14/blackjack"
+  },
+  "author": "Brien Pafford <bcpaff@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pafford14/blackjack/issues"
+  },
+  "homepage": "https://github.com/pafford14/blackjack",
+  "devDependencies": {
+    "jquery": "^2.1.4",
+    "lodash": "^3.8.0",
+    "skeleton": "^0.1.2"
+  }
+}
